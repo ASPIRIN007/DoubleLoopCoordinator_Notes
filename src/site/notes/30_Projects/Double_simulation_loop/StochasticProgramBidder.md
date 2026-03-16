@@ -1,0 +1,22 @@
+---
+{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/stochastic-program-bidder/"}
+---
+
+[[-set-up-bidding-problem\|-set-up-bidding-problem]]
+[[formulate_DA_bidding_problem\|formulate_DA_bidding_problem]]
+[[formulate_RT_bidding_problem\|formulate_RT_bidding_problem]]
+[[_save_power_outputs\|_save_power_outputs]]
+ [[_add_bidding_params\|_add_bidding_params]]
+  [[_add_bidding_vars\|_add_bidding_vars]]
+  [[_add_bidding_objective\|_add_bidding_objective]]
+ [[30_Projects/Double_simulation_loop/compute_bids\|compute_bids]]
+ [[30_Projects/Double_simulation_loop/compute_day_ahead_bids\|compute_day_ahead_bids]]
+[[compute_real_time_bids\|compute_real_time_bids]]
+[[_pass_realized_day_ahead_prices\|_pass_realized_day_ahead_prices]]
+[[_pass_realized_day_ahead_dispatches\|_pass_realized_day_ahead_dispatches]]
+[[30_Projects/Double_simulation_loop/update_day_ahead_model\|update_day_ahead_model]]
+[[update_real_time_model\|update_real_time_model]]
+[[30_Projects/Double_simulation_loop/_update_model\|_update_model]]
+[[record_bids\|record_bids]]
+[[30_Projects/Double_simulation_loop/_pass_price_forecasts\|_pass_price_forecasts]]
+[write_results]
