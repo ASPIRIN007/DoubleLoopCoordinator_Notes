@@ -16,7 +16,7 @@
 [[_pass_realized_day_ahead_dispatches\|_pass_realized_day_ahead_dispatches]]
 [[30_Projects/Double_simulation_loop/update_day_ahead_model\|update_day_ahead_model]]
 [[update_real_time_model\|update_real_time_model]]
-[[30_Projects/Double_simulation_loop/_update_model\|_update_model]]
+[[30_Projects/Double_simulation_loop/_update_model_function1\|_update_model_function1]]
 [[record_bids\|record_bids]]
 [[30_Projects/Double_simulation_loop/_pass_price_forecasts\|_pass_price_forecasts]]
 [write_results]
