@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/statistics-subscribers-class/"}
+{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/statistics-subscribers-class/","created":"2026-03-14T17:46:09.547-04:00","updated":"2026-03-16T13:45:10.723-04:00"}
 ---
 
 `_StatisticsSubscribers` is just a small container that groups together the pending stats subscriber lists.

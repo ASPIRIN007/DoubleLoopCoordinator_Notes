@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/bid-into-dam/"}
+{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/bid-into-dam/","created":"2026-03-15T14:06:34.613-04:00","updated":"2026-03-16T13:41:06.752-04:00"}
 ---
 
 ## code

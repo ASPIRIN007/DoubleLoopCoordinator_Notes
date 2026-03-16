@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/stage-2/"}
+{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/stage-2/","created":"2026-02-26T20:04:33.321-05:00","updated":"2026-03-16T13:45:07.052-04:00"}
 ---
 
 # Double Loop Code Execution Map

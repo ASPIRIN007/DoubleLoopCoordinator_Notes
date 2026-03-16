@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/double-loop-demo-run-report-2026-03-01/"}
+{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/double-loop-demo-run-report-2026-03-01/","created":"2026-03-01T10:42:20.216-05:00","updated":"2026-03-16T13:41:57.514-04:00"}
 ---
 
 # Double Loop Demo Run Report (2026-03-01)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/register-initialization-callback/"}
+{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/register-initialization-callback/","created":"2026-03-13T10:21:17.795-04:00","updated":"2026-03-16T13:44:38.744-04:00"}
 ---
 
 What this function does is it tells Prescient: “when you reach that initialization stage, call self.initialize_customized_results.”

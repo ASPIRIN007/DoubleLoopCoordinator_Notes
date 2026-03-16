@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/storyline/"}
+{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/storyline/","created":"2026-03-15T14:05:40.971-04:00","updated":"2026-03-16T13:40:32.073-04:00"}
 ---
 
 - thermal_generator_prescient_plugin.py is the plugin module Prescient loads.

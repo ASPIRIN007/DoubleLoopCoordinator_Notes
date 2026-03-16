@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/stage-1/"}
+{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/stage-1/","created":"2026-02-26T19:55:39.816-05:00","updated":"2026-03-16T13:45:02.949-04:00"}
 ---
 
 # Double Simulation Loop Architecture Spec

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/ppt-contents/"}
+{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/ppt-contents/","created":"2026-03-03T21:20:14.127-05:00","updated":"2026-03-16T13:43:03.125-04:00"}
 ---
 
 

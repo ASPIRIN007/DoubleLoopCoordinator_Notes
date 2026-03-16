@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/compute-bids/"}
+{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/compute-bids/","created":"2026-03-15T20:01:48.235-04:00","updated":"2026-03-16T13:41:32.183-04:00"}
 ---
 
 

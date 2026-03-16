@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/project-tracking-trajectory/"}
+{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/project-tracking-trajectory/","created":"2026-03-15T17:23:01.530-04:00","updated":"2026-03-16T13:44:21.387-04:00"}
 ---
 
 What project_tracking_trajectory(...) does:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/rts-gmlc/"}
+{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/rts-gmlc/","created":"2026-03-04T11:03:42.380-05:00","updated":"2026-03-16T13:44:54.225-04:00"}
 ---
 
 

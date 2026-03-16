@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/normal-lifecycle-callbacks/"}
+{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/normal-lifecycle-callbacks/","created":"2026-03-14T17:59:06.565-04:00","updated":"2026-03-16T13:42:45.739-04:00"}
 ---
 
 Examples:

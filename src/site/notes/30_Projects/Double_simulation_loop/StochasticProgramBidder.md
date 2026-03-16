@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/stochastic-program-bidder/"}
+{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/stochastic-program-bidder/","created":"2026-03-15T17:44:52.249-04:00","updated":"2026-03-16T13:50:42.644-04:00"}
 ---
 
 [[-set-up-bidding-problem\|-set-up-bidding-problem]]

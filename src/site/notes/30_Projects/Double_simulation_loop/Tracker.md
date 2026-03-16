@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/tracker/"}
+{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/tracker/","created":"2026-03-04T10:24:11.363-05:00","updated":"2026-03-16T13:45:35.383-04:00"}
 ---
 
 

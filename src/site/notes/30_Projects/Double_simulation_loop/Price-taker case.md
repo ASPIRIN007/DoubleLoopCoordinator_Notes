@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/price-taker-case/"}
+{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/price-taker-case/","created":"2026-02-27T09:42:02.043-05:00","updated":"2026-03-16T13:44:15.596-04:00"}
 ---
 
 # Price-Taker Test Case Walkthrough (Double Simulation Loop)

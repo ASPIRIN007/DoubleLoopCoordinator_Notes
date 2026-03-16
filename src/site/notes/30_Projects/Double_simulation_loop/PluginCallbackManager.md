@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/plugin-callback-manager/"}
+{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/plugin-callback-manager/","created":"2026-03-14T17:46:16.951-04:00","updated":"2026-03-16T13:42:59.634-04:00"}
 ---
 
 ### __ init __

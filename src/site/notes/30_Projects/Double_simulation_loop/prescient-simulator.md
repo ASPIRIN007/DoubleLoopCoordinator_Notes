@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/prescient-simulator/"}
+{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/prescient-simulator/","created":"2026-03-13T16:59:51.420-04:00","updated":"2026-03-16T13:43:41.620-04:00"}
 ---
 
 [[30_Projects/Double_simulation_loop/config.py\|config.py]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/pass-price-forecasts/"}
+{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/pass-price-forecasts/","created":"2026-03-15T20:07:11.549-04:00","updated":"2026-03-16T13:40:09.511-04:00"}
 ---
 
 ## Code

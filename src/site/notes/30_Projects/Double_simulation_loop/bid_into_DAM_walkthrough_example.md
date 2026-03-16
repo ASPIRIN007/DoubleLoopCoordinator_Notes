@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/bid-into-dam-walkthrough-example/"}
+{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/bid-into-dam-walkthrough-example/","created":"2026-03-15T21:24:23.514-04:00","updated":"2026-03-16T13:41:11.967-04:00"}
 ---
 
 

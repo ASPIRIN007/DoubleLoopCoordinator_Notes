@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/init-py/"}
+{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/init-py/","created":"2026-03-14T14:23:12.041-04:00","updated":"2026-03-16T13:42:17.855-04:00"}
 ---
 
 

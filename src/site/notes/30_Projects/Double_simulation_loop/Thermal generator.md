@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/thermal-generator/"}
+{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/thermal-generator/","created":"2026-03-01T16:44:56.212-05:00","updated":"2026-03-16T13:45:24.191-04:00"}
 ---
 
 The thermal-generator Eq. (1)–(12) from that paper are implemented in the `ThermalGenerator` Pyomo model here:

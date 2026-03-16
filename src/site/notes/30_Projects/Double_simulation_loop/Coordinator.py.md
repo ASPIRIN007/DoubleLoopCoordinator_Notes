@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/coordinator-py/"}
+{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/coordinator-py/","created":"2026-03-12T20:42:00.680-04:00","updated":"2026-03-16T13:41:48.041-04:00"}
 ---
 
 class PrescientPluginModule(ModuleType):

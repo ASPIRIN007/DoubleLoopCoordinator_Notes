@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/prescient/"}
+{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/prescient/","created":"2026-03-04T15:01:59.792-05:00","updated":"2026-03-16T13:43:06.715-04:00"}
 ---
 
 

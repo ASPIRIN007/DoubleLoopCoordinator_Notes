@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/prescient-stats/"}
+{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/prescient-stats/","created":"2026-03-13T17:23:54.077-04:00","updated":"2026-03-16T13:44:06.210-04:00"}
 ---
 
 [[daily_stats.py\|daily_stats.py]]

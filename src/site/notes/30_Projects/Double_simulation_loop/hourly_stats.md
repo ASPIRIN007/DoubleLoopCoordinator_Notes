@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/hourly-stats/"}
+{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/hourly-stats/","created":"2026-03-13T09:21:56.127-04:00","updated":"2026-03-16T13:42:13.911-04:00"}
 ---
 
 `HourlyStats` is a **per-hour aggregation container** for Prescient’s simulation results.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/bidder/"}
+{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/bidder/","created":"2026-03-04T09:59:36.924-05:00","updated":"2026-03-16T13:41:20.411-04:00"}
 ---
 
 

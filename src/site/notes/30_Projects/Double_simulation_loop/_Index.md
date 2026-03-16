@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/index/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/index/","tags":["gardenEntry"],"created":"2026-03-12T22:14:00.928-04:00","updated":"2026-03-16T13:39:49.094-04:00"}
 ---
 
 

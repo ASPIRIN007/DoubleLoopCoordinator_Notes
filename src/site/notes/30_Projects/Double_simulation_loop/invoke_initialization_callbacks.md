@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/invoke-initialization-callbacks/"}
+{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/invoke-initialization-callbacks/","created":"2026-03-12T23:18:06.187-04:00","updated":"2026-03-16T13:42:25.813-04:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/difference-between-callbacks/"}
+{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/difference-between-callbacks/","created":"2026-03-14T17:07:48.359-04:00","updated":"2026-03-16T13:41:53.785-04:00"}
 ---
 
 >[!Question]

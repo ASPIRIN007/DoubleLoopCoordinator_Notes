@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/prescient-plugins-plugin-registration-py/"}
+{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/prescient-plugins-plugin-registration-py/","created":"2026-03-13T16:18:28.286-04:00","updated":"2026-03-16T13:43:37.648-04:00"}
 ---
 
 

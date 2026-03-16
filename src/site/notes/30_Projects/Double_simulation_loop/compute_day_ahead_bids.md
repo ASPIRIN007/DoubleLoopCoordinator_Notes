@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/compute-day-ahead-bids/"}
+{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/compute-day-ahead-bids/","created":"2026-03-15T17:51:37.296-04:00","updated":"2026-03-16T13:41:36.385-04:00"}
 ---
 
 ## Code

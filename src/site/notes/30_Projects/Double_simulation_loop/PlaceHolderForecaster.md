@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/place-holder-forecaster/"}
+{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/place-holder-forecaster/","created":"2026-03-15T19:11:24.552-04:00","updated":"2026-03-16T13:42:56.231-04:00"}
 ---
 
 PlaceHolderForecaster is what is being used in thermal_generator_prescient_plugin.py. This is named PlaceHolder because currently it is just using the means and STDs to forecast the future market prices based on which bidder then create bids. Since just using mean and STDs are not a good prediction it can be swapped later with a better forecaster and thus named placeholder.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/stats-subscription-hooks/"}
+{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/stats-subscription-hooks/","created":"2026-03-14T17:59:18.046-04:00","updated":"2026-03-16T13:45:14.025-04:00"}
 ---
 
 Examples:

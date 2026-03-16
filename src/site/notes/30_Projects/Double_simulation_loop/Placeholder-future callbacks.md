@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/placeholder-future-callbacks/"}
+{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/placeholder-future-callbacks/","created":"2026-03-14T18:00:30.250-04:00","updated":"2026-03-16T13:42:52.605-04:00"}
 ---
 
 These also appear in plugin_registration.py, but they are not active entries in the callbacks list because they are not implemented yet.

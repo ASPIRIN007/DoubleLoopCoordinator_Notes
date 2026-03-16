@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/analogy-conference/"}
+{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/analogy-conference/","created":"2026-03-14T15:50:59.684-04:00","updated":"2026-03-16T13:41:01.682-04:00"}
 ---
 
 

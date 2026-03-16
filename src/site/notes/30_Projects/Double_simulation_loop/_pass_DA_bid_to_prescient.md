@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/pass-da-bid-to-prescient/"}
+{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/pass-da-bid-to-prescient/","created":"2026-03-15T17:23:59.915-04:00","updated":"2026-03-16T13:40:03.093-04:00"}
 ---
 
 ## code

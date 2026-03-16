@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/register-for-hourly-stats/"}
+{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/register-for-hourly-stats/","created":"2026-03-13T10:20:27.762-04:00","updated":"2026-03-16T13:44:35.481-04:00"}
 ---
 
 The flow is:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/thermal-generator-prescient-plugin-py/"}
+{"dg-publish":true,"permalink":"/30-projects/double-simulation-loop/thermal-generator-prescient-plugin-py/","created":"2026-03-12T22:21:04.093-04:00","updated":"2026-03-16T13:45:28.146-04:00"}
 ---
 
 
